@@ -1,0 +1,62 @@
+_repo: Memoirs-Of-Fanny-HillA-New-and-Genuine-Edition-from-the-Original-Text--London-1749-_25305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cleland, John
+    birthdate: 1709
+    deathdate: 1789
+    gutenberg_agent_id: '9040'
+    url: http://www.gutenberg.org/2009/agents/9040
+    wikipedia: http://en.wikipedia.org/wiki/John_Cleland
+description: "Memoirs of a Woman of Pleasure (popularly known as Fanny Hill, an anglicisation\
+  \ of the Latin mons veneris, mound of Venus) is an erotic novel by English novelist\
+  \ John Cleland first published in London in 1748. Written while the author was in\
+  \ debtors' prison in London, it is considered \"the first original English prose\
+  \ pornography, and the first pornography to use the form of the novel\". It is one\
+  \ of the most prosecuted and banned books in history.\nA critical edition by Peter\
+  \ Sabor includes a bibliography and explanatory notes. The collection 'Launching\
+  \ \"Fanny Hill\"' contains several essays on the historical, social and economic\
+  \ themes underlying the novel.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25305'
+  wikidata: Q1395765
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Erotic stories'
+- !lcc 'PR'
+- !lcsh 'Prostitutes -- Fiction'
+title: 'Memoirs Of Fanny Hill
+
+  A New and Genuine Edition from the Original Text (London, 1749)'
+url: http://www.gutenberg.org/ebooks/25305
+wikipedia:
+- https://fr.wikipedia.org/wiki/M%C3%A9moires_de_Fanny_Hill,_femme_de_plaisir
+- https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%86%D9%8A_%D9%87%D9%8A%D9%84
+- https://nl.wikipedia.org/wiki/Fanny_Hill
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%92%E3%83%AB
+- https://pl.wikipedia.org/wiki/Pami%C4%99tniki_Fanny_Hill
+- https://cs.wikipedia.org/wiki/Fanny_Hill
+- https://de.wikipedia.org/wiki/Fanny_Hill
+- https://pt.wikipedia.org/wiki/Fanny_Hill
+- https://en.wikisource.org/wiki/Fanny_Hill:_Memoirs_of_a_Woman_of_Pleasure
+- https://es.wikipedia.org/wiki/Fanny_Hill
+- https://da.wikipedia.org/wiki/Fanny_Hill
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%A1%D5%BC%D5%A1%D5%AF_%D5%AF%D5%B6%D5%B8%D5%BB_%D5%B0%D5%B8%D6%82%D5%B7%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%A8_%D5%AF%D5%A1%D5%B4_%D5%96%D5%A1%D5%B6%D5%B6%D5%AB_%D5%80%D5%AB%D5%AC%D5%AC
+- https://cy.wikipedia.org/wiki/Fanny_Hill
+- https://en.wikipedia.org/wiki/Fanny_Hill
+- https://commons.wikimedia.org/wiki/Category:Fanny_Hill
+- https://br.wikipedia.org/wiki/Fanny_Hill
+- https://no.wikipedia.org/wiki/Fanny_Hill
+- https://zh.wikipedia.org/wiki/%E8%8A%AC%E5%A6%AE%E5%B8%8C%E7%88%BE_(%E5%B0%8F%E8%AA%AA)
+- https://sv.wikipedia.org/wiki/Fanny_Hill
+- https://it.wikipedia.org/wiki/Fanny_Hill._Memorie_di_una_donna_di_piacere
